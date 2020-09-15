@@ -1,0 +1,350 @@
+
+.homeContactoForm {
+  padding-bottom: 0; }
+.homeContactoForm .container .headerOtherTitle {
+  text-align: center;
+  margin-bottom: 30px; }
+.homeContactoForm .container .headerOtherTitle p {
+  font-size: 20px;
+  font-size: 1.25rem;
+  text-transform: uppercase;
+  margin-bottom: 10px; }
+.homeContactoForm .container .homeContactoForm {
+  max-width: 900px;
+  position: relative;
+  margin: 0 auto; }
+.homeContactoForm .container .homeContactoForm .fieldset fieldset {
+  text-align: center;
+  padding: 0 15px; }
+.homeContactoForm .container .homeContactoForm .fieldset fieldset input, .homeContactoForm .container .homeContactoForm .fieldset fieldset textarea {
+  padding: 12px 15px; }
+.homeContactoForm .container .homeContactoForm .fieldset fieldset.tooltip {
+  position: relative; }
+.homeContactoForm .container .homeContactoForm .fieldset fieldset.tooltip span.fa {
+  font-size: 20px;
+  font-size: 1.25rem;
+  position: absolute;
+  top: 10px;
+  right: 25px;
+  cursor: pointer; }
+.homeContactoForm .container .homeContactoForm .fieldset fieldset.tooltip span.fa:hover > strong {
+  display: block; }
+.homeContactoForm .container .homeContactoForm .fieldset fieldset.tooltip span.fa strong {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  display: none;
+  position: absolute;
+  right: -10px;
+  top: 35px;
+  padding: 5px;
+  background: white;
+  border: #008544 1px solid;
+  z-index: 20; }
+.homeContactoForm .container .homeContactoForm .fieldset fieldset.tooltip span.fa strong img {
+  width: 250px;
+  height: auto; }
+.homeContactoForm .container .homeContactoForm .fieldset fieldset.tooltip span.fa strong:before {
+  content: "";
+  width: 0;
+  height: 0;
+  position: absolute;
+  top: -5px;
+  right: 13px;
+  border-style: solid;
+  border-width: 0 5px 5px 5px;
+  border-color: transparent transparent #008544 transparent; }
+.homeContactoForm .container .homeContactoForm .fieldset fieldset.tooltip span.fa.double {
+  display: -webkit-box;
+  display: -moz-box !important;
+  display: -ms-flexbox !important;
+  webkit-display: -webkit-flex !important;
+  display: -webkit-flex !important;
+  display: flex !important; }
+.homeContactoForm .container .homeContactoForm .fieldset fieldset.tooltip span.fa.double fieldset {
+  width: 50%; }
+.homeContactoForm .container .homeContactoForm .fieldset fieldset.tooltip span.fa.triple {
+  display: -webkit-box;
+  display: -moz-box !important;
+  display: -ms-flexbox !important;
+  webkit-display: -webkit-flex !important;
+  display: -webkit-flex !important;
+  display: flex !important; }
+.homeContactoForm .container .homeContactoForm .fieldset fieldset.tooltip span.fa.triple fieldset {
+  width: 33.33%; }
+.homeContactoForm.calculadora {
+  padding-bottom: 30px; }
+.homeContactoForm.calculadora form .titleForm {
+  display: block;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 15px; }
+.homeContactoForm.calculadora form .fieldset fieldset {
+  text-align: center;
+  padding: 0 15px; }
+.homeContactoForm.calculadora form .fieldset fieldset input, .homeContactoForm.calculadora form .fieldset fieldset textarea {
+  padding: 12px 15px; }
+.homeContactoForm.calculadora form .fieldset fieldset input.consumo, .homeContactoForm.calculadora form .fieldset fieldset textarea.consumo {
+  max-width: 100px;
+  margin: 0 auto; }
+.homeContactoForm.calculadora form .fieldset.double {
+  display: -webkit-box;
+  display: -moz-box !important;
+  display: -ms-flexbox !important;
+  webkit-display: -webkit-flex !important;
+  display: -webkit-flex !important;
+  display: flex !important; }
+.homeContactoForm.calculadora form .fieldset.double fieldset {
+  width: 50%; }
+.homeContactoForm.calculadora form .fieldset.triple {
+  display: -webkit-box;
+  display: -moz-box !important;
+  display: -ms-flexbox !important;
+  webkit-display: -webkit-flex !important;
+  display: -webkit-flex !important;
+  display: flex !important; }
+.homeContactoForm.calculadora form .fieldset.triple fieldset {
+  width: 33.33%; }
+.homeContactoForm.second {
+  padding-bottom: 60px;
+  background-color: #ededed; }
+.homeContactoForm.second.visible {
+  display: block; }
+
+.boxedForm {
+  padding: 30px;
+  background: white;
+  max-width: 900px;
+  margin: 0 auto; }
+
+.ahorroText {
+  padding: 60px 0 30px;
+  background-color: #ededed; }
+.ahorroText .container .ahorroRecibo {
+  display: -webkit-box;
+  display: -moz-box !important;
+  display: -ms-flexbox !important;
+  webkit-display: -webkit-flex !important;
+  display: -webkit-flex !important;
+  display: flex !important;
+  justify-content: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  margin-bottom: 30px; }
+.ahorroText .container .ahorroRecibo .ahorroReciboCont {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 50%;
+  max-width: 510px;
+  padding: 0 15px; }
+.ahorroText .container .ahorroRecibo .ahorroReciboCont h3 {
+  text-align: center;
+  font-weight: 300;
+  margin-bottom: 15px; }
+.ahorroText .container .ahorroRecibo .ahorroReciboCont h3.tresel {
+  font-weight: 500; }
+.ahorroText .container .ahorroRecibo .ahorroReciboCont .ahorroImage {
+  text-align: center;
+  position: relative; }
+.ahorroText .container .ahorroRecibo .ahorroReciboCont .ahorroImage img {
+  width: 100%;
+  height: auto; }
+.ahorroText .container .ahorroRecibo .ahorroReciboCont .ahorroImage .ahorroImageText {
+  font-size: 24px;
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: black;
+  position: absolute;
+  right: 16px;
+  top: 111px;
+  width: 163px;
+  text-align: left; }
+.ahorroText .container .ahorroRecibo .ahorroReciboCont .ahorroImage .ahorroImageText span {
+  display: inline-block;
+  font-size: 20px;
+  font-size: 1.25rem;
+  margin-top: -5px;
+  color: #008544; }
+.ahorroText .container .ahorroRecibo .ahorroReciboCont .ahorroImage .ahorroImageText.tresel {
+  color: red; }
+.ahorroText .container .ahorroRecibo .ahorroReciboCont .ahorroImage .ahorroImageText.tresel span {
+  color: #f86805; }
+.ahorroText .container .ahorroTextCont {
+  text-align: center;
+  max-width: 900px;
+  margin: 0 auto; }
+.ahorroText .container .ahorroTextCont p {
+  font-size: 20px;
+  font-size: 1.25rem;
+  text-transform: uppercase;
+  margin-bottom: 10px; }
+.ahorroText .container .ahorroTextCont p.percentage {
+  font-size: 120px;
+  font-size: 7.5rem;
+  font-weight: 700;
+  color: #008544; }
+.ahorroText .container .ahorroTextCont p.percentage strong {
+  border-bottom: #f5b519 5px solid; }
+.ahorroText .container .ahorroTextCont p.percentage span {
+  font-size: 20px;
+  font-size: 1.25rem;
+  display: block;
+  width: 100%;
+  margin: 5px 0 20px; }
+
+.mensajeCalc {
+  display: none; }
+.mensajeCalc.visible {
+  display: block; }
+
+.lineSelector {
+  display: -webkit-box;
+  display: -moz-box !important;
+  display: -ms-flexbox !important;
+  webkit-display: -webkit-flex !important;
+  display: -webkit-flex !important;
+  display: flex !important;
+  width: 100%;
+  max-width: 900px;
+  min-height: 60px;
+  margin: 0 auto 30px;
+  position: relative; }
+.lineSelector:after {
+  position: absolute;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  top: 50%;
+  content: "";
+  width: 100%;
+  height: 3px;
+  left: 0;
+  top: 20px;
+  position: absolute;
+  background-color: #f5b519; }
+.lineSelector fieldset {
+  width: 25%;
+  padding: 0 !important;
+  margin: 0;
+  position: relative; }
+.lineSelector fieldset label {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  font-size: 14px;
+  font-size: 0.875rem;
+  width: 100%;
+  display: inline-block;
+  font-weight: 700;
+  position: absolute;
+  left: 0;
+  padding: 40px 10px 0;
+  cursor: pointer;
+  z-index: 1; }
+.lineSelector fieldset label span {
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  transition: all 0.5s;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  position: absolute;
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+  left: 50%;
+  content: "";
+  width: 15px;
+  height: 15px;
+  top: 12px;
+  background-color: #008544;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  border: transparent 2px solid; }
+.lineSelector fieldset input {
+  visibility: hidden; }
+.lineSelector fieldset input:checked + label span {
+  width: 30px;
+  height: 30px;
+  top: 3px;
+  background-color: white;
+  border: #008544 2px solid; }
+.lineSelector fieldset input:checked + label span:after {
+  position: absolute;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  content: "";
+  font-family: "FontAwesome";
+  font-size: 20px;
+  font-size: 1.25rem;
+  color: #008544; }
+
+.checkStyle {
+  visibility: hidden; }
+.checkStyle input {
+  visibility: hidden; }
+.checkStyle input:checked + label span {
+  background-color: #008544;
+  border: #008544 1px solid; }
+.checkStyle input:checked + label span:after {
+  border: #008544 1px solid;
+  left: 30px; }
+.checkStyle label {
+  font-size: 14px;
+  font-size: 0.875rem;
+  display: block;
+  position: relative;
+  padding-left: 70px;
+  padding-top: 6px;
+  text-align: left;
+  margin-top: -14px; }
+.checkStyle label span {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  transition: all 0.5s;
+  display: block;
+  position: absolute;
+  width: 60px;
+  height: 30px;
+  left: 0;
+  top: 0;
+  background-color: white;
+  border: #eaeaea 1px solid;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  cursor: pointer; }
+.checkStyle label span:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  transition: all 0.5s;
+  content: "";
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: -1px;
+  top: -1px;
+  background-color: white;
+  border: #eaeaea 1px solid;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%; }
+.checkStyle.enabled {
+  visibility: visible !important; }
